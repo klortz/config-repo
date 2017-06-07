@@ -1,4 +1,5 @@
 ---
+spring:
+  profiles: cloud
 
-Message:
-  FirstName: Kirk
+message: Kirk
