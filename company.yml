@@ -3,3 +3,8 @@ spring:
   profiles: cloud
 
 message: Kirk Lortz
+
+eureka:
+  instance:
+    hostname: company-klortz.cfapps.io
+    nonSecurePort: 80
