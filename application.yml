@@ -5,6 +5,4 @@ info:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://username:password@rscale-training-eureka-server.cfapps.io/eureka
-    
-#  defaultZone: http://user:pass@regserv-klortz-0_0_1-rc_2.cfapps.io/eureka
+      defaultZone: http://user:pass@regserv-klortz.cfapps.io/eureka
