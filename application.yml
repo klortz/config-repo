@@ -2,3 +2,7 @@
 
 info:
   description: Training configuration repo
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://user:pass@configserver-klortz-0_0_1-rc_11.cfapps.io/eureka
