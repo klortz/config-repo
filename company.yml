@@ -2,4 +2,4 @@
 spring:
   profiles: cloud
 
-message: Kirk
+message: Kirk Lortz
